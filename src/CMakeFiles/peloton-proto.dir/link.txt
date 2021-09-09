@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libpeloton-proto.a CMakeFiles/peloton-proto.dir/__/include/peloton/proto/abstract_service.pb.cc.o CMakeFiles/peloton-proto.dir/__/include/peloton/proto/logging_service.pb.cc.o
+/usr/bin/ranlib ../lib/libpeloton-proto.a
